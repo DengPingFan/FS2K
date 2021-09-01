@@ -158,6 +158,13 @@ This dataset is maintained by Deng-Ping Fan (IIAI, dengpfan@gmail.com) & Peng Zh
 ## Citation
 
 ```latex
-Paper will be publicly available soon.
+@aticle{Fan2021FS2K,
+  title={Deep Facial Synthesis: A New Challenge},
+  author={Deng-Ping, Fan and Ziling, Huang and Peng, Zheng and Hong, Liu and Xuebin, Qin and Ling, Shao},
+  journal={arXiv},
+  year={2021}
+}
 ```
+
+
 
