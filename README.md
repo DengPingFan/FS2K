@@ -153,7 +153,7 @@ FS2K
 
 ## Contact
 
-This dataset is maintained by Dengping Fan (IIAI, dengpfan@gmail.com).
+This dataset is maintained by Deng-Ping Fan (IIAI, dengpfan@gmail.com) & Peng Zheng (IIAI, zhengpeng0108@gmail.com).
 
 ## Citation
 
