@@ -6,6 +6,7 @@
 
 ### Updates:
 
++ 2021-09-20: Add [a script](https://github.com/DengPingFan/FS2K/blob/main/tools/split_train_test.py) for splitting the FS2K dataset into train & test.
 + 2021-08-31: [FS2K Dataset](https://github.com/DengPingFan/FS2K) is released!
 
 ### Introduction:
@@ -114,10 +115,12 @@ FS2K
 + F = **Frontal Face** or Face > 30 degrees.
 + S (1 / 2 / 3) = **Style**1 / Style2 / Style3.
 
-#### Tools
+### Tools
+
++ Put the *FS2K dataset* in this folder.
++ Run `tools/split_train_test.py` to split the whole dataset into training part and test part.
 
 + Run `tools/vis.py`  to visualize the photo-sketch pair with attributes.
-
 + Run `tools/check.py` to check the count of all attributes in training set and test set.
 
 
