@@ -156,14 +156,14 @@ FS2K
 
 ## Contact
 
-This dataset is maintained by Deng-Ping Fan (IIAI, dengpfan@gmail.com) & Peng Zheng (IIAI, zhengpeng0108@gmail.com).
+This dataset is maintained by Deng-Ping Fan (dengpfan@gmail.com) & Peng Zheng (IIAI, zhengpeng0108@gmail.com).
 
 ## Citation
 
 ```latex
 @aticle{Fan2021FS2K,
   title={Deep Facial Synthesis: A New Challenge},
-  author={Deng-Ping, Fan and Ziling, Huang and Peng, Zheng and Hong, Liu and Xuebin, Qin and Ling, Shao and Luc, Van Gool},
+  author={Deng-Ping, Fan and Peng, Zheng and Ziling, Huang and Hong, Liu and Xuebin, Qin and Luc, Van Gool},
   journal={arXiv},
   year={2021}
 }
