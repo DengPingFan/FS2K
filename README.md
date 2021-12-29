@@ -163,7 +163,7 @@ This dataset is maintained by Deng-Ping Fan (dengpfan@gmail.com) & Peng Zheng (I
 ```latex
 @aticle{Fan2021FS2K,
   title={Deep Facial Synthesis: A New Challenge},
-  author={Deng-Ping, Fan and Peng, Zheng and Ziling, Huang and Hong, Liu and Xuebin, Qin and Luc, Van Gool},
+  author={Deng-Ping, Fan and Ziling, Huang and Peng, Zheng and Hong, Liu and Xuebin, Qin and Luc, Van Gool},
   journal={arXiv},
   year={2021}
 }
